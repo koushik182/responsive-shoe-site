@@ -1,0 +1,97 @@
+.logo-img img{
+    width:50%;
+}
+.nav-sec div ul li a{
+    text-decoration: none;
+    color:black;
+    font-weight: 500;
+
+}
+main{
+    padding-bottom:100px;
+}
+.head-sec .first img{
+    width:100%;
+}
+.all-button{
+    font-size:16px;
+    padding: 12px 10px;
+    border-radius: 10px;
+    background-color: rgb(79, 79, 226);
+    color:white;
+}
+.head-sec .second{
+   margin-left:180px;
+   width:37%;
+}
+.head-sec .second h1{
+    font-size:50px;
+    font-weight: 700;
+    margin: 0;
+ }
+ .head-sec .second p{
+    margin-top:30px;
+    color:#243749;
+ }
+ .nav-main{
+     background-color: #fff5f8;
+ }
+ .price{
+     display: inline-block;
+     margin-right: 0px;
+     color:#eb872f;
+     font-weight:700;
+ }
+ .all-shoe{
+     width: 100%;
+     height: 55%;
+     background-color: #ebf0f5;
+     border-radius:15px;
+ }
+
+ .casual-shoe{
+     border: 0;
+     
+ }
+ .casual-shoe-2{
+    margin-right:50px;
+   
+}
+.casual-shoe-1{
+    margin-right: 50px;
+  
+}
+.shoe-sec h4{
+    font-size:40px;
+    font-weight: 700;
+    color:#293d50;
+}
+.shoe-sec h5{
+    font-size:23px;
+    font-weight: 700;
+    color:#293d50;
+}
+.shoe-sec p{
+    color: #293d50;
+}
+.butt{
+    border: 0;
+    background-color: white;
+}
+.butt h2{
+    position: relative;
+    right: 23px;
+    top: 7px;
+
+}
+.butt .all-button{
+    position: relative;
+    left:22px;
+}
+
+.last-img img{
+    width: 100%;
+}
+.icon img{
+    width: 100%;
+}
